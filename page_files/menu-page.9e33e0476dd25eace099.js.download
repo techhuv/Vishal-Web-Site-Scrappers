@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[20],{"sKc/":function(e,n,t){"use strict";t.r(n);var s=function(){var e=this.$createElement;return(this._self._c||e)("div")};s._withStripped=!0;var i=t("4YED"),l={mixins:[t("s04e").a],mounted:function(){Object(i.clearAllBodyScrollLocks)()}},c=t("KHd+"),o=Object(c.a)(l,s,[],!1,null,null,null);o.options.__file="Assets/vue/pages/MenuPage.vue";n.default=o.exports}}]);
+//# sourceMappingURL=menu-page.9e33e0476dd25eace099.js.map
